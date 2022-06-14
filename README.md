@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nathan-cai
-- 👀 I’m interested in python and JavaScript and finding an internship
-- 🌱 I’m currently learning solidity
+##Hi there! I'm Nathan
+
+- 🏫 I’m a Computer Science Student at the University of Toronto
+- :writing_hand: I’m currently learning solidity
 - 💞️ I’m looking to collaborate on healthcare projects and ios apps
 - 📫 How to reach me https://www.linkedin.com/in/cai-nathan/
 
