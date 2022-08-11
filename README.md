@@ -2,7 +2,7 @@
 
 - 🏫 I’m a Computer Science Student at the University of Toronto
 - :writing_hand: I’m currently learning full stack development from The Odin Project
-- :pray: I would love to collboarte on any web development projects
+- :pray: I would love to collaborate on any web development projects
 - 📫 Reach me at https://www.linkedin.com/in/cai-nathan/
 
 <!---
